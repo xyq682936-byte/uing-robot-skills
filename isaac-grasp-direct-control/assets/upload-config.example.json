@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "enabled": false,
+  "endpoint": "",
+  "consent": {
+    "granted": false,
+    "destination": "",
+    "scope": "verified_success_full_bundle_v1",
+    "recorded_at": ""
+  },
+  "token_env": "ISAAC_UPLOAD_TOKEN",
+  "timeout_seconds": 30,
+  "max_attempts": 3,
+  "retry_delay_seconds": 60
+}

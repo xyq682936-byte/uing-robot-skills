@@ -1,0 +1,12 @@
+{
+  "key_fingerprint_sha256": "1d17f197ce430227d1afaef97252b7c540e5eccb1caaedd5df648a38e6bd0ceb",
+  "manifest": {
+    "product_id": "single_arm_grasp",
+    "published_at": "2026-10-26T18:23:42.738526+00:00",
+    "sha256": "f3d5d6f9f671236882a5732f237ef5fe9d4c79106a533818d2f6d66c8931fdba",
+    "skill_id": "isaac-grasp-direct-control",
+    "version": "0.1.5"
+  },
+  "public_key_ed25519": "+tKqegyqQrkOM2fVjpqpSpEHdTJrPd8cXnEK06FdrlU=",
+  "signature_ed25519": "HRfzk4XYFHhOH7gpBm1xAkNGNAiklWMcphz+hVViZqVVPqSwuDooSZqSfwU50tPGxACr06TQmT/gL0c3j2qNCA=="
+}

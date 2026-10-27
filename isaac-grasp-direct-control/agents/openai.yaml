@@ -1,0 +1,4 @@
+interface:
+  display_name: "Uing 机械臂并行直接控制"
+  short_description: "核验安装与首次配置，指导已有仿真接口推进不同抓取策略并保留执行证据"
+  default_prompt: "使用 $isaac-grasp-direct-control，先根据我的当前请求核验安装、完成首次配置或继续已有任务；首次配置先选择仿真平台，仅安装时不启动训练。"

@@ -1,0 +1,13 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Uing · Robot simulation",
+      "description": "本地反馈驱动的机器人抓取探索、成功策略优化与场景验证规则。",
+      "skills": [
+        "isaac-grasp-direct-control"
+      ]
+    }
+  ]
+}
