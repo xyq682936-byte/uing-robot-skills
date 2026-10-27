@@ -74,7 +74,9 @@ SKILL 和仿真控制在用户配置的本地环境运行，不从发布服务�
 
 ## 项目页面与下载
 
-本仓库的 `docs/` 是独立静态介绍页面，可通过 GitHub Pages 发布。技能 ZIP 和签名回执与现有正式 0.1.5 保持一致；模型通过原有独立资产页下载。
+[打开 Uing 项目页面](https://xyq682936-byte.github.io/uing-robot-skills/) · [直接下载 SKILL 0.1.5](https://xyq682936-byte.github.io/uing-robot-skills/downloads/isaac-grasp-direct-control-0.1.5.zip)
+
+本仓库的 `docs/` 是已发布到 GitHub Pages 的独立静态介绍页面。技能 ZIP 和签名回执与现有正式 0.1.5 保持一致；模型通过原有独立资产页下载。
 
 ## 认准版本，也保留来路
 

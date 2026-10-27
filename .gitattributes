@@ -1,0 +1,2 @@
+# Preserve published bytes so the signed release manifest stays valid on all platforms.
+* -text
